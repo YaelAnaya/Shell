@@ -1,0 +1,4 @@
+/home/yaelito/.cache/JetBrains/RemoteDev/dist/0fc4707d65ca8_CLion-232.6095.18/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/yaelito/.cache/JetBrains/RemoteDev/dist/0fc4707d65ca8_CLion-232.6095.18/bin/ninja/linux/x64/ninja -G Ninja -S /mnt/c/Users/yaela/OneDrive/Documentos/SO/Shell -B /mnt/c/Users/yaela/OneDrive/Documentos/SO/Shell/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/yaela/OneDrive/Documentos/SO/Shell/cmake-build-debug
